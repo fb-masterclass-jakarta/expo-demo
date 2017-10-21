@@ -1,5 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "19.0.0"
+    "name": "Test CRNA",
+    "version": "1.0.0",
+    "slug": "test-crna",
+    "sdkVersion": "19.0.0",
+    "android": {
+      "package": "com.sujono.testcrna"
+    }
   }
 }
